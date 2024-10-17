@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Casino Game</string>
+    <string name="descripcion_casino">Icono del Casino</string> <!-- Agrega esta línea -->
+    <string name="player_name_hint">Player Name</string>
+    <string name="birthdate_label">Date of Birth</string>
+    <string name="fondode_apuestas_hint">Betting Funds</string>
+    <string name="dice_count_label">Number of Dice</string>
+    <string name="enter_button">Enter</string>
+    <string name="warning_text">Remember, gambling can be harmful and may lead to addiction.</string>
+    <string name="funds_label">Betting Funds: ₡</string>
+    <string name="roll_dice_button">Roll Dice</string>
+    <string name="result_label">Result:</string>
+    <string name="won_message">You\'re a winner!</string>
+    <string name="broke_message">You\'ve lost everything... Don\'t gamble again!</string>
+    <string name="saved_message">You survived...</string>
+    <string name="retire_message">You shouldn\'t gamble... Retire.</string>
+</resources>

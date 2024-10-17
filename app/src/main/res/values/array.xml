@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Otros recursos de strings aquí -->
+
+    <!-- Definir las opciones para la cantidad de dados -->
+    <string-array name="dice_count_options">
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Juego de Casino</string>
+    <string name="descripcion_casino">Icono del Casino</string>
+    <string name="player_name_hint">Nombre del Jugador</string>
+    <string name="birthdate_label">Fecha de Nacimiento</string>
+    <string name="fondode_apuestas_hint">Fondo de Apuestas</string>
+    <string name="dice_count_label">Cantidad de Dados</string>
+    <string name="enter_button">Ingresar</string>
+    <string name="warning_text">Recuerda que los juegos de azar son nocivos y pueden generar adicción.</string>
+    <string name="funds_label">Fondo de Apuestas: ₡</string>
+    <string name="roll_dice_button">Tirar Dados</string>
+    <string name="result_label">Resultado:</string>
+    <string name="won_message">¡Eres un ganador!</string>
+    <string name="broke_message">Lo perdiste todo... ¡No vuelvas a jugar!</string>
+    <string name="saved_message">Te salvaste...</string>
+    <string name="retire_message">No deberías jugar... Retírate.</string>
+</resources>
